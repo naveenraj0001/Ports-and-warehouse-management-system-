@@ -1,0 +1,6 @@
+warehouse_id,name,latitude,longitude,capacity,port_id
+1,Navi Mumbai Central Warehouse,19.017,73.029,150000,1
+2,Chennai Industrial Storage,12.990,80.200,120000,2
+3,Vizag Steel Yard,17.745,83.308,100000,3
+4,Cochin Logistics Hub,9.977,76.280,80000,4
+5,Howrah Distribution Center,22.589,88.310,95000,5
